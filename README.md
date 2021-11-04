@@ -18,3 +18,4 @@ Lista de cursos, post títulos, certificaciones y laboratorios de hacking.
 - https://pauljerimy.com/security-certification-roadmap/
 
 ### Roadmaps
+- https://github.com/vay3t/capacitaciones/blob/main/Practical_Offensive_Security_Certification_Roadmap.pdf
