@@ -7,6 +7,7 @@ Lista de cursos, post títulos, certificaciones y laboratorios de hacking.
 - https://www.offensive-security.com/offsec-for-orgs/
 - https://www.pentesteracademy.com/pricing
 - https://tryhackme.com/business
+- https://ine.com/pages/ine-for-business
 
 ### Diplomados de ciberseguridad
 - https://diplomadociberseguridad.com/
