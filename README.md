@@ -1,4 +1,4 @@
-# Capacitaciones
+# Lista de recursos de crecimiento profesional
 Lista de cursos, post títulos, certificaciones y laboratorios de hacking.
 
 ### Laboratorios
@@ -17,6 +17,7 @@ Lista de cursos, post títulos, certificaciones y laboratorios de hacking.
 ### Certificaciones
 - https://portswigger.net/web-security/certification
 - https://pauljerimy.com/security-certification-roadmap/
+- https://academy.101blockchains.com/courses/certified-blockchain-security-expert
 
 ### Roadmaps
 - https://github.com/vay3t/capacitaciones/blob/main/Practical_Offensive_Security_Certification_Roadmap.pdf
